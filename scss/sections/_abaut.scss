@@ -1,0 +1,25 @@
+#abaut{
+    padding-top: 96px;
+  .wrapper_abaut{
+    display: flex;
+    gap: 230px;
+  }
+  .wrapper_abaut_right{
+    font-size: 30px;
+    max-width: 584;
+    p{
+        color: #4B5563;
+    }
+ .div{
+    display: flex;
+    .ul_abaut{
+        li{
+            width: 287px;
+        }
+        .ul_abaut2{
+            width: 287px;
+        }
+    }
+ }
+  }
+} 

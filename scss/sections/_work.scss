@@ -1,0 +1,23 @@
+#work{
+    .wrapper_lef_right{
+        display: flex;
+        gap: 48px;
+
+        .wrapper_right{
+            max-width: 480px;
+            h3{
+                font-size: 20px;
+            }
+            p{
+                font-size: 16px;
+                
+            }
+        }
+        .btn_div{
+            width: 200px;
+            display: flex;
+            flex-wrap: wrap;
+            background-color: red;
+        }
+    }
+}

@@ -1,0 +1,25 @@
+#intro{
+    padding-top: 96px ;
+    .wrapper{
+        display: flex;
+        gap: 230px;
+            .card_intro_left{
+                max-width: 768px;
+                h1{
+                    font-size: 60px;
+                }
+                p{
+                    font-size: 24px;
+                    color: #4B5563;
+                }
+                .intro_bottom{
+                    display: flex;
+                    gap: 8px;
+                }
+                .intro_bottom2{
+                    display: flex;
+                    gap: 8px;
+                }
+            }
+    }
+}
